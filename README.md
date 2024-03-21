@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/_kyroos)
 
